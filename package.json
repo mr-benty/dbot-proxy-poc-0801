@@ -1,0 +1,7 @@
+{
+  "name": "dbot-proxy-poc",
+  "version": "1.0.0",
+  "dependencies": {
+    "@mrbenty8jf1p9y5/oidc-bind-canary": "0.0.2"
+  }
+}
